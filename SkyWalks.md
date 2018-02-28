@@ -7,7 +7,9 @@
 * **世界的顶点，战斗力1w**：已经不是我能理解的世界了。
 * null
 * null
+* **GAN之父，战斗力4500** [Ian Goodfellow](https://github.com/Oukaishen/NiuBiPeople/blob/master/Ian%20Goodfellow.md)
 * **MIT教授，战斗力4000** [Song Han](https://github.com/Oukaishen/NiuBiPeople/blob/master/Song%20Han.md) 
+* ​
 * null
 * null
 * 中间反正要空了很多挡才行
