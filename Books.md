@@ -22,6 +22,8 @@ Professional Javascript for Web Developers, by Nicholas. 过了一遍，常备�
 
 深入理解Java虚拟机，by 周志明先生。[book](https://book.douban.com/subject/24722612/).神书。没读完。
 
+HTML& CSS design and build websites, by Jon Duckett. [book](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189). 好漂亮的书，扫完，用了查。
+
 
 
 ## 文学类
