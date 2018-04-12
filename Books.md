@@ -10,6 +10,8 @@ Applied Multivariate Statistical Analysis, by Richard A. Johnson. [Book](https:/
 
 统计学习方法，by 李航教授。[book](https://book.douban.com/subject/10590856/). 基本读完。手边。
 
+DeepLearning Book, by Ian Goodfellow. [Bool](http://www.deeplearningbook.org/). 读了前面好几章。需要继续完成。神书。
+
 
 
 ## 编程类
